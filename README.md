@@ -8,7 +8,11 @@ Goal was to implement color picker similar to what `Lake` drawing app has
 ## What's next
 
 • Implement the same logic without using `UICollectionView`(therefore a lot of hacks e.g. returning `Int.max` for infinite scrolling could be avoided)
+
 • Remove necessity to provide frame at initialization phase
+
 • Render only visible part
+
 • Cocoapods, Cathage, SPM support
+
 
