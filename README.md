@@ -15,4 +15,5 @@ Goal was to implement color picker similar to what `Lake` drawing app has
 
 • Cocoapods, Cathage, SPM support
 
-
+## Android
+My friend implemented Android version which is available [here](https://github.com/m-vytoshko/CarouselColorPicker)
